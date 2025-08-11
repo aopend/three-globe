@@ -4,7 +4,8 @@ ThreeJS Globe Visualization
 [![NPM package][npm-img]][npm-url]
 [![Build Size][build-size-img]][build-size-url]
 [![NPM Downloads][npm-downloads-img]][npm-downloads-url]
-
+[English](./README.md)
+[中文](./README_ZH-CN.md)
 <p align="center">
   <a href="//vasturiano.github.io/three-globe/example/basic/"><img width="80%" src="https://vasturiano.github.io/three-globe/example/preview.png"></a>
 </p>

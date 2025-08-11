@@ -5,6 +5,8 @@ ThreeJS Globe Visualization
 [![Build Size][build-size-img]][build-size-url]
 [![NPM Downloads][npm-downloads-img]][npm-downloads-url]
 
+[English](./README.md)
+[中文](./README_ZH-CN.md)
 <p align="center">
   <a href="//vasturiano.github.io/three-globe/example/basic/"><img width="80%" src="https://vasturiano.github.io/three-globe/example/preview.png"></a>
 </p>
@@ -59,24 +61,29 @@ myScene.add(myGlobe);
 
 ## API reference
 
-* [Initialisation](#initialisation)
-* [Globe Layer](#globe-layer)
-* [Points Layer](#points-layer)
-* [Arcs Layer](#arcs-layer)
-* [Polygons Layer](#polygons-layer)
-* [Paths Layer](#paths-layer)
-* [Heatmaps Layer](#heatmaps-layer)
-* [Hex Bin Layer](#hex-bin-layer)
-* [Hexed Polygons Layer](#hexed-polygons-layer)
-* [Tiles Layer](#tiles-layer)
-* [Particles Layer](#particles-layer)
-* [Rings Layer](#rings-layer)
-* [Labels Layer](#labels-layer)
-* [HTML Elements Layer](#html-elements-layer)
-* [3D Objects Layer](#3d-objects-layer)
-* [Custom Layer](#custom-layer)
-* [Utility](#utility)
-* [Render Options](#render-options)
+- [ThreeJS Globe Visualization](#threejs-globe-visualization)
+      - [Check out the examples:](#check-out-the-examples)
+  - [❤️ Support This Project](#️-support-this-project)
+  - [Quick start](#quick-start)
+  - [API reference](#api-reference)
+    - [Initialisation](#initialisation)
+    - [Globe Layer](#globe-layer)
+    - [Points Layer](#points-layer)
+    - [Arcs Layer](#arcs-layer)
+    - [Polygons Layer](#polygons-layer)
+    - [Paths Layer](#paths-layer)
+    - [Heatmaps Layer](#heatmaps-layer)
+    - [Hex Bin Layer](#hex-bin-layer)
+    - [Hexed Polygons Layer](#hexed-polygons-layer)
+    - [Tiles Layer](#tiles-layer)
+    - [Particles Layer](#particles-layer)
+    - [Rings Layer](#rings-layer)
+    - [Labels Layer](#labels-layer)
+    - [HTML Elements Layer](#html-elements-layer)
+    - [3D Objects Layer](#3d-objects-layer)
+    - [Custom Layer](#custom-layer)
+    - [Utility](#utility)
+    - [Render Options](#render-options)
 
 ### Initialisation
 ```js
